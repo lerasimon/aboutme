@@ -66,4 +66,9 @@ article p {
     color: whitesmoke;
 }
 
+.line {
+    border-bottom: 1px solid black;
+    position: center;
+    margin: 200px 500px;
+}
 
