@@ -69,6 +69,21 @@ article p {
 .line {
     border-bottom: 1px solid black;
     position: center;
-    margin: 200px 500px;
+    margin: 70px 500px;
 }
 
+.col1,.col2, .col3 {
+    display:inline-block;
+    text-align:center;
+    margin: 0 100px;   
+}
+
+.col2 {
+    margin: 0 50px;   
+}
+    
+.pic {
+    height: 50px;
+    display:inline-block;
+    margin: 0 auto;
+}
