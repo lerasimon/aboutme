@@ -87,3 +87,9 @@ article p {
     display:inline-block;
     margin: 0 auto;
 }
+
+.first-letter {
+  font-size: 5.44rem;
+  color: #ce0515;
+  line-height: 0.1rem;
+}
